@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+.all{
+    background: rgb(230, 229, 229);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    width: 100%;
+    height: 100px;
+}
+.nav-menu{
+    width: 100%;
+    height: 50px;
+}
+.content-one{
+    width: 24%;
+    height: 400px;
+}
+.main-content{
+    width: 47%;
+    height: 400px;
+}
+.content-two{
+    width: 24%;
+    height: 400px;
+}
+.footer{
+    width: 100%;
+    height: 70px;
+}
